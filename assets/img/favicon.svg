@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="tt-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF7A1A"/>
+      <stop offset="32%" stop-color="#E5470F"/>
+      <stop offset="62%" stop-color="#B4307A"/>
+      <stop offset="100%" stop-color="#5B2BC4"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="18" fill="url(#tt-grad)"/>
+  <g fill="none" stroke="#FFFFFF" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round" transform="translate(8, 8) scale(2)">
+    <rect x="9" y="2" width="6" height="12" rx="3" fill="#FFFFFF" fill-opacity="0.18"/>
+    <path d="M5 11a7 7 0 0 0 14 0"/>
+    <path d="M12 18v4"/>
+    <path d="M8 22h8"/>
+  </g>
+</svg>

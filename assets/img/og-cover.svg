@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF7A1A"/>
+      <stop offset="32%" stop-color="#E5470F"/>
+      <stop offset="65%" stop-color="#B4307A"/>
+      <stop offset="100%" stop-color="#5B2BC4"/>
+    </linearGradient>
+    <linearGradient id="stage" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2D1B5C"/>
+      <stop offset="100%" stop-color="#1A1135"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="1060" cy="520" r="320" fill="none" stroke="#FFFFFF" stroke-opacity="0.12" stroke-width="2"/>
+  <circle cx="1060" cy="520" r="400" fill="none" stroke="#FFFFFF" stroke-opacity="0.07" stroke-width="2"/>
+  <circle cx="1060" cy="520" r="480" fill="none" stroke="#FFFFFF" stroke-opacity="0.04" stroke-width="2"/>
+
+  <!-- Left Content -->
+  <g transform="translate(80, 86)">
+    <!-- Brand Pill -->
+    <rect x="0" y="0" width="350" height="46" rx="23" fill="#FFFFFF" fill-opacity="0.18" stroke="#FFFFFF" stroke-opacity="0.35"/>
+    <circle cx="24" cy="23" r="6" fill="#FFFFFF"/>
+    <text x="42" y="29" fill="#FFFFFF" font-family="system-ui, -apple-system, sans-serif" font-size="18" font-weight="700">TomTalk · Phòng tập nói trực tuyến</text>
+
+    <!-- Main Heading -->
+    <text x="0" y="138" fill="#FFFFFF" font-family="system-ui, -apple-system, sans-serif" font-size="68" font-weight="900" letter-spacing="-1.5">Dám nói. Nói hay.</text>
+    <text x="0" y="218" fill="#FFE3C2" font-family="system-ui, -apple-system, sans-serif" font-size="68" font-weight="900" letter-spacing="-1.5">Nói để tạo ảnh hưởng.</text>
+
+    <!-- Subtitle -->
+    <text x="0" y="282" fill="#FFF3EC" font-family="system-ui, -apple-system, sans-serif" font-size="24" font-weight="500">Lộ trình 30 bài kỹ năng · Vòng quay 80+ chủ đề bấm giờ</text>
+    <text x="0" y="318" fill="#FFF3EC" font-family="system-ui, -apple-system, sans-serif" font-size="24" font-weight="500">48 thẻ luyện ứng xử · Khám phá giao tiếp 14 nghề nghiệp</text>
+
+    <!-- Level Badges -->
+    <g transform="translate(0, 368)">
+      <rect x="0" y="0" width="136" height="48" rx="14" fill="#FFFFFF" fill-opacity="0.95"/>
+      <text x="68" y="30" text-anchor="middle" fill="#1A1135" font-family="system-ui, -apple-system, sans-serif" font-size="18" font-weight="800">Tiểu học</text>
+
+      <rect x="150" y="0" width="120" height="48" rx="14" fill="#FFFFFF" fill-opacity="0.2" stroke="#FFFFFF" stroke-opacity="0.45"/>
+      <text x="210" y="30" text-anchor="middle" fill="#FFFFFF" font-family="system-ui, -apple-system, sans-serif" font-size="18" font-weight="700">THCS</text>
+
+      <rect x="284" y="0" width="120" height="48" rx="14" fill="#FFFFFF" fill-opacity="0.2" stroke="#FFFFFF" stroke-opacity="0.45"/>
+      <text x="344" y="30" text-anchor="middle" fill="#FFFFFF" font-family="system-ui, -apple-system, sans-serif" font-size="18" font-weight="700">THPT</text>
+
+      <rect x="418" y="0" width="140" height="48" rx="14" fill="#FFFFFF" fill-opacity="0.2" stroke="#FFFFFF" stroke-opacity="0.45"/>
+      <text x="488" y="30" text-anchor="middle" fill="#FFFFFF" font-family="system-ui, -apple-system, sans-serif" font-size="18" font-weight="700">Đi làm</text>
+    </g>
+  </g>
+
+  <!-- Right Studio Card Preview -->
+  <g transform="translate(760, 105)">
+    <rect x="0" y="0" width="360" height="420" rx="32" fill="url(#stage)" stroke="#FFFFFF" stroke-opacity="0.22" stroke-width="2"/>
+    <rect x="28" y="28" width="96" height="32" rx="8" fill="#D7261E"/>
+    <circle cx="44" cy="44" r="5" fill="#FFFFFF"/>
+    <text x="56" y="49" fill="#FFFFFF" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="900" letter-spacing="2">ON AIR</text>
+
+    <text x="28" y="96" fill="#FFB08F" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="800" letter-spacing="1.5">PHÒNG THU TRỰC TUYẾN</text>
+    <text x="28" y="136" fill="#F7F3FF" font-family="system-ui, -apple-system, sans-serif" font-size="25" font-weight="800">Quay chủ đề.</text>
+    <text x="28" y="170" fill="#F7F3FF" font-family="system-ui, -apple-system, sans-serif" font-size="25" font-weight="800">Chuẩn bị nhanh.</text>
+    <text x="28" y="204" fill="#FFE3C2" font-family="system-ui, -apple-system, sans-serif" font-size="25" font-weight="800">Nói đúng giờ.</text>
+
+    <!-- Timer boxes -->
+    <rect x="28" y="236" width="144" height="82" rx="16" fill="#FFFFFF" fill-opacity="0.08" stroke="#FFFFFF" stroke-opacity="0.16"/>
+    <text x="44" y="264" fill="#B8ADDC" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="600">Chuẩn bị</text>
+    <text x="44" y="300" fill="#F7F3FF" font-family="monospace" font-size="30" font-weight="700">01:00</text>
+
+    <rect x="188" y="236" width="144" height="82" rx="16" fill="#FFFFFF" fill-opacity="0.08" stroke="#FFFFFF" stroke-opacity="0.16"/>
+    <text x="204" y="264" fill="#B8ADDC" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="600">Giờ nói</text>
+    <text x="204" y="300" fill="#FF7A1A" font-family="monospace" font-size="30" font-weight="700">02:00</text>
+
+    <!-- CTA bar -->
+    <rect x="28" y="342" width="304" height="50" rx="14" fill="#E5470F"/>
+    <text x="180" y="373" text-anchor="middle" fill="#FFFFFF" font-family="system-ui, -apple-system, sans-serif" font-size="17" font-weight="800">Your voice speaks volumes</text>
+  </g>
+</svg>

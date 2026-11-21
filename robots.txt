@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hieuthieudx79.github.io/TomTalk/sitemap.xml
